@@ -1,0 +1,16 @@
+Você é um especialista em comunicação financeira.
+
+Com base na análise abaixo, gere um e-mail profissional em HTML.
+O e-mail deve ser visualmente limpo, com seções bem definidas e fácil de ler.
+
+Estrutura esperada:
+- Cabeçalho com título e período analisado
+- Resumo executivo
+- Destaques da semana
+- Pontos de atenção
+- Rodapé com disclaimer
+
+Retorne apenas o código HTML, sem explicações, sem markdown, sem blocos de código.
+
+Análise:
+{analise}

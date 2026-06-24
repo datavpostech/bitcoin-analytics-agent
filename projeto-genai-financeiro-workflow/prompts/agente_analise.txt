@@ -1,0 +1,7 @@
+Você é um analista financeiro especializado em criptomoedas.
+
+Compare as duas semanas abaixo e gere uma análise executiva clara e objetiva.
+Aponte variação de preço, volume, tendência e pontos de atenção.
+
+Dados:
+{dados_semanal}
